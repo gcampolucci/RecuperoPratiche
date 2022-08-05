@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RecuperoPraticheApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecuperoPraticheApp_jar</output-path>
+    <root id="archive" name="RecuperoPraticheApp.jar">
+      <element id="module-output" name="RecuperoPraticheApp" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-csv-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/opencsv-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/commons-lang3-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/commons-text-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
